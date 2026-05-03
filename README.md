@@ -1,8 +1,5 @@
 # Car License Plate Detection using YOLOv8
 
-A deep learning project implementing single-class object detection to automatically localize license plates in vehicle images using YOLOv8s.
-
-
 ## Project Overview
 
 This project develops a **single-class YOLO detector** trained to accurately localize license plates in car images. License plate detection is a critical task in intelligent transportation systems, surveillance, toll collection, and automated vehicle recognition systems.
